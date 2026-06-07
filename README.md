@@ -1,10 +1,4 @@
 # V8 Internal Signature Scan - libcef.dll
-
-Target: `D:\chaoxing Exam\libcef.dll`
-IDB: `D:\chaoxing Exam\libcef.dll.i64`
-ImageBase: `0x10000000`
-IDA MCP: `127.0.0.1:13337`
-
 ## Summary
 
 The strongest V8 anchors are clustered around `0x10DE*` - `0x10DF*`.
